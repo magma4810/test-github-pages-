@@ -1,0 +1,11 @@
+.map {
+  width: 250px;
+  height: 150px;
+  float: right;
+}
+.clearStorage {
+  float: right;
+}
+.button {
+  color: brown;
+}
